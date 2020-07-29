@@ -2,6 +2,7 @@
 
 - Fix: add serviceaccount name in kustomize deployment (#1689) @jmthvt
 - Updates Oracle OCI SDK to latest (#1687) @ericrrath
+- Fix: alibaba cloud keeping create record
 
 ## v0.7.2 - 2020-06-03
 
